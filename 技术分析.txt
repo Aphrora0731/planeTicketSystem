@@ -1,0 +1,7 @@
+前端：
+HTML页面框架
+CSS 页面样式
+JavaScript：动态响应用户事件，接收解析后端数据（websocket）（json格式)
+
+java/python 连接后端数据库(sql 语句，获取数据)
+websocket和前端通信（json）
